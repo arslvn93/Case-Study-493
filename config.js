@@ -39,8 +39,8 @@ const config = {
   },
   "header": {
     "tag": "CASE STUDY",
-    "title": "How a Downsizing Buyer Secured a Fully Renovated 2-Bed Condo with Double Parking for the Lowest Price on Record—In a Competitive Market",
-    "subheadline": "Secured the Most Competitively Priced 2-Bedroom, 2-Bathroom Condo in Recent History—With Bonus Parking and Zero Surprises"
+    "title": "How a Downsizing Buyer Secured a Fully Renovated 2-Bed Condo with Double Parking for the Lowest Price on Record",
+    "subheadline": "Secured the Most Competitively Priced 2-Bedroom, 2-Bathroom Condo in Recent History, With Bonus Parking and Zero Surprises"
   },
   "mainBox": {
     "summary": {
