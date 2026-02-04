@@ -44,14 +44,14 @@ const config = {
   },
   "mainBox": {
     "summary": {
-      "title": "How a Downsizing Buyer Secured a Fully Renovated 2-Bed Condo with Double Parking for the Lowest Price on Record—In a Competitive Market",
+      "title": "How a Downsizing Buyer Secured a Fully Renovated 2-Bed Condo with Double Parking for the Lowest Price on Record",
       "heroImage": {
         "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1770058731739-L3RycmViL2xpc3RpbmdzLzQyLzc1LzA1Lzk4L3AvMDc2YzkwZDgtMmU5MC00YTBjLTlkZjEtMmM3ZTM4ZDQ3ZDRiLmpwZw.jpg"
       },
       "subTitle": "Summary",
       "paragraphs": [
-        "My client was ready to simplify life and transition into a condo that matched his current lifestyle. He wasn't just looking for any place—he needed the perfect combination of location, amenities, high-end features, and value. And he refused to settle or overpay in a market where competitive bidding had become the norm.",
-        "Through professional service and market expertise, we delivered exceptional results for our client. <strong>SECURED AT $622,000—THE LOWEST PRICE FOR A 2-BED, 2-BATH CONDO WITH 2 PARKING SPACES IN RECENT MARKET HISTORY</strong> <strong>WON IN A COMPETITIVE MULTIPLE-OFFER SITUATION</strong> against other experienced buyer agents without overpaying Purchased a <strong>FULLY RENOVATED</strong>, turn-key property that checked every single box on his must-have list <strong>BONUS: Doubled the parking</strong>—secured 2 underground parking spaces when most comparable units only offered one (or none) Achieved dream location closer to family with strong future investment potential in a high-demand Vaughan neighborhood Closed exactly on my client's preferred timeline with zero hidden costs or last-minute surprises"
+        "My client was ready to simplify life and transition into a condo that matched his current lifestyle. He wasn't just looking for any place, he needed the perfect combination of location, amenities, high-end features, and value. And he refused to settle or overpay in a market where competitive bidding had become the norm.",
+        "Through professional service and market expertise, we delivered exceptional results for our client. <strong>SECURED AT $622,000—THE LOWEST PRICE FOR A 2-BED, 2-BATH CONDO WITH 2 PARKING SPACES IN RECENT MARKET HISTORY.</strong> <strong>WON IN A COMPETITIVE MULTIPLE-OFFER SITUATION</strong> against other experienced buyer agents without overpaying. Purchased a <strong>FULLY RENOVATED</strong>, turn-key property that checked every single box on his must-have list. <strong>BONUS: Doubled the parking</strong>—secured 2 underground parking spaces when most comparable units only offered one (or none). Achieved dream location closer to family with strong future investment potential in a high-demand Vaughan neighborhood. Closed exactly on my client's preferred timeline with zero hidden costs or last-minute surprises."
       ]
     },
     "sidebar": {
