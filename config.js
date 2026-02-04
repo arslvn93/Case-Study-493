@@ -1,16 +1,5 @@
-// =================================================================================================
-// PAGE CONFIGURATION OBJECT
-// This file defines all the dynamic content for the case study page.
-// The `renderer.js` file reads this object to build the HTML.
-// To change text, images, or other content, edit the values in this file.
-// =_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_
 const config = {
   "globals": {
-    "companyName": "iStreet Realty Group",
-    "mainCTAButtonText": "Book A Discovery Call",
-    "mainCTAButtonURL": "#contact",
-    "primaryColor": "#e3c379",
-    "accentColor": "#d9c6a2",
     "agents": [
       {
         "name": "Rick Roccasalva",
@@ -25,8 +14,28 @@ const config = {
             "value": "416 616 9369"
           }
         ]
+      },
+      {
+        "name": "Steven Simonetti",
+        "imageSrc": "",
+        "contactDetails": [
+          {
+            "type": "email",
+            "value": "steven@istreetrealty.ca"
+          },
+          {
+            "type": "phone",
+            "value": "(416) 400-7653"
+          }
+        ]
       }
-    ]
+    ],
+    "companyName": "iStreet Realty Group",
+    "mainCTAButtonText": "Book A Discovery Call",
+    "mainCTAButtonURL": "https://calendly.com/rick-istreetrealty/discovery-call",
+    "primaryColor": "#e3c379",
+    "accentColor": "#d9c6a2",
+    "facebookPixelId": ""
   },
   "header": {
     "tag": "CASE STUDY",
@@ -64,7 +73,8 @@ const config = {
         "Navigating a competitive market where properties were strategically under-listed to attract multiple offers and drive up prices",
         "The constant fear of overpaying or getting blindsided by hidden costs that could derail the entire purchase",
         "Sifting through countless listings that checked some boxes but never all of them—leaving him frustrated after viewing 8 different properties"
-      ]
+      ],
+      "listItems": []
     },
     {
       "type": "standard",
@@ -78,7 +88,8 @@ const config = {
       ],
       "testimonial": {
         "quote": "\"\"I have never worked with someone so professional and knowledgeable. Rick helped me every step of the way and made what could have been a stressful process completely seamless. He's the most knowledgeable and professional agent I've ever encountered, and I would not hesitate to recommend him to anyone looking to buy a home in the future. He truly delivered everything I wanted at a better price point than I ever expected!\"\"<br><span>— Satisfied Client</span>"
-      }
+      },
+      "listItems": []
     },
     {
       "type": "standard",
@@ -88,7 +99,8 @@ const config = {
       ],
       "image": {
         "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1770058758833-L3RycmViL2xpc3RpbmdzLzQyLzc1LzA1Lzk4L3AvZTkwYzU5NGUtZDJiYS00ZDMzLTlkODUtMzEyMDllY2ExM2FlLmpwZw.jpg"
-      }
+      },
+      "listItems": []
     },
     {
       "type": "standard",
@@ -100,7 +112,8 @@ const config = {
         "<strong>BONUS: Doubled the parking</strong>—secured 2 underground parking spaces when most comparable units only offered one (or none)",
         "Achieved dream location closer to family with strong future investment potential in a high-demand Vaughan neighborhood",
         "Closed exactly on my client's preferred timeline with zero hidden costs or last-minute surprises"
-      ]
+      ],
+      "listItems": []
     },
     {
       "type": "standard",
@@ -109,7 +122,8 @@ const config = {
         "Patience combined with the right agent wins deals—rushing into bidding wars without strategy is how buyers overpay in competitive markets",
         "The lowest listing price doesn't always mean the best deal; understanding seller motivation and positioning yourself as the ideal buyer (not just the highest bidder) can give you the edge",
         "Working with an agent who prioritizes transparency and communication means no hidden costs, no surprises, and confidence in every decision you make throughout the purchase"
-      ]
+      ],
+      "listItems": []
     },
     {
       "type": "ctaBanner",
@@ -121,24 +135,24 @@ const config = {
     }
   ],
   "footer": {
+    "privacyPolicy": {
+      "text": "Privacy Policy",
+      "href": "https://istreetrealty.ca/privacy-policy/"
+    },
     "logo": {
       "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1761767184484-biorick.jpg"
+    },
+    "secondaryLogo": {
+      "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/upload-Untitled-design-2.jpg"
     },
     "brokerageLabel": "Brokerage:",
     "brokerageName": "iStreet Realty Group - HomeLife Partners",
     "brokerageAddress": "3850 Steeles Avenue W. Unit 6, Woodbridge, Ontario",
-    "secondaryLogo": {
-      "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/upload-Untitled-design-2.jpg"
-    },
-    "disclaimerText": "All testimonials on this page are from real clients. Their experiences do not guarantee similar results.<br>Individual results may vary based on location, market conditions, motivation, as well as other unforeseen factors. Your results may vary.",
-    "privacyPolicy": {
-      "text": "Privacy Policy",
-      "href": "https://istreetrealty.ca/privacy-policy/"
-    }
-  }
+    "disclaimerText": "All testimonials on this page are from real clients. Their experiences do not guarantee similar results.<br>Individual results may vary based on location, market conditions, motivation, as well as other unforeseen factors. Your results may vary."
+  },
+  "githubRepo": "https://github.com/arslvn93/Case-Study-493"
 };
 
-// Export for Node.js environment (if applicable) or set for browser
 if (typeof module !== 'undefined' && module.exports) {
   module.exports = config;
 } else if (typeof window !== 'undefined') {
