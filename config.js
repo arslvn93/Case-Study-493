@@ -69,10 +69,10 @@ const config = {
       "type": "standard",
       "title": "The Challenge",
       "paragraphs": [
-        "Finding a turn-key, fully renovated condo with underground parking in his ideal neighborhood—without breaking the budget",
+        "Finding a turn-key, fully renovated condo with underground parking in his ideal neighborhood, without breaking the budget",
         "Navigating a competitive market where properties were strategically under-listed to attract multiple offers and drive up prices",
         "The constant fear of overpaying or getting blindsided by hidden costs that could derail the entire purchase",
-        "Sifting through countless listings that checked some boxes but never all of them—leaving him frustrated after viewing 8 different properties"
+        "Sifting through countless listings that checked some boxes but never all of them, leaving him frustrated after viewing 8 different properties"
       ],
       "listItems": []
     },
@@ -83,19 +83,16 @@ const config = {
         "Conducted deep market analysis to identify properties with genuine value, not just attractive listing prices designed to create bidding frenzies",
         "Developed a strategic positioning approach that communicated directly with the listing agent and sellers, emphasizing my client's qualifications, genuine intent as an end-user, and seamless closing ability",
         "Leveraged relationship-building and clear, confident communication to differentiate my client from other competing buyers in the multiple-offer situation",
-        "Highlighted my client's alignment with the sellers' values—they cared deeply about who would become part of their community, not just the highest bidder",
+        "Highlighted my client's alignment with the sellers' values, they cared deeply about who would become part of their community, not just the highest bidder",
         "Negotiated not just on price, but on terms that mattered most to my client, including securing his ideal closing timeline exactly 60 days out"
       ],
-      "testimonial": {
-        "quote": "\"\"I have never worked with someone so professional and knowledgeable. Rick helped me every step of the way and made what could have been a stressful process completely seamless. He's the most knowledgeable and professional agent I've ever encountered, and I would not hesitate to recommend him to anyone looking to buy a home in the future. He truly delivered everything I wanted at a better price point than I ever expected!\"\"<br><span>— Satisfied Client</span>"
-      },
       "listItems": []
     },
     {
       "type": "standard",
       "title": "The Solution",
       "paragraphs": [
-        "After viewing property after property that came close but never quite delivered, my client realized he needed more than just access to listings—he needed someone who truly understood the market's hidden dynamics. He chose to work with me because of my extensive local market knowledge, proven negotiation track record, and commitment to complete transparency with zero surprises throughout the entire process."
+        "After viewing property after property that came close but never quite delivered, my client realized he needed more than just access to listings, he needed someone who truly understood the market's hidden dynamics. He chose to work with me because of my extensive local market knowledge, proven negotiation track record, and commitment to complete transparency with zero surprises throughout the entire process."
       ],
       "image": {
         "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1770058758833-L3RycmViL2xpc3RpbmdzLzQyLzc1LzA1Lzk4L3AvZTkwYzU5NGUtZDJiYS00ZDMzLTlkODUtMzEyMDllY2ExM2FlLmpwZw.jpg"
@@ -106,10 +103,10 @@ const config = {
       "type": "standard",
       "title": "The Results",
       "paragraphs": [
-        "<strong>SECURED AT $622,000—THE LOWEST PRICE FOR A 2-BED, 2-BATH CONDO WITH 2 PARKING SPACES IN RECENT MARKET HISTORY</strong>",
+        "<strong>SECURED AT $622,000, THE LOWEST PRICE FOR A 2-BED, 2-BATH CONDO WITH 2 PARKING SPACES IN RECENT MARKET HISTORY</strong>",
         "<strong>WON IN A COMPETITIVE MULTIPLE-OFFER SITUATION</strong> against other experienced buyer agents without overpaying",
         "Purchased a <strong>FULLY RENOVATED</strong>, turn-key property that checked every single box on his must-have list",
-        "<strong>BONUS: Doubled the parking</strong>—secured 2 underground parking spaces when most comparable units only offered one (or none)",
+        "<strong>BONUS: Doubled the parking</strong>, secured 2 underground parking spaces when most comparable units only offered one (or none)",
         "Achieved dream location closer to family with strong future investment potential in a high-demand Vaughan neighborhood",
         "Closed exactly on my client's preferred timeline with zero hidden costs or last-minute surprises"
       ],
@@ -119,7 +116,7 @@ const config = {
       "type": "standard",
       "title": "Conclusion",
       "paragraphs": [
-        "Patience combined with the right agent wins deals—rushing into bidding wars without strategy is how buyers overpay in competitive markets",
+        "Patience combined with the right agent wins deals, rushing into bidding wars without strategy is how buyers overpay in competitive markets",
         "The lowest listing price doesn't always mean the best deal; understanding seller motivation and positioning yourself as the ideal buyer (not just the highest bidder) can give you the edge",
         "Working with an agent who prioritizes transparency and communication means no hidden costs, no surprises, and confidence in every decision you make throughout the purchase"
       ],
@@ -129,7 +126,7 @@ const config = {
       "type": "ctaBanner",
       "ctaBannerContent": {
         "subhead": "Trusted By Hundreds Of Home Buyers & Sellers",
-        "headline": "Book Your Free Buyer Strategy Session—Discover Exactly How to Win Your Dream Property Without Overpaying (Even in Competitive Markets)",
+        "headline": "Book Your Free Buyer Strategy Session. Discover Exactly How to Win Your Dream Property Without Overpaying (Even in Competitive Markets)",
         "smallText": "Book A Discovery Call Now ➡️"
       }
     }
