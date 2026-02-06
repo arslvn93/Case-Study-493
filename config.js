@@ -92,7 +92,7 @@ const config = {
       "type": "standard",
       "title": "The Solution",
       "paragraphs": [
-        "After viewing property after property that came close but never quite delivered, my client realized he needed more than just access to listings, he needed someone who truly understood the market's hidden dynamics. He chose to work with me because of my extensive local market knowledge, proven negotiation track record, and commitment to complete transparency with zero surprises throughout the entire process."
+        "After viewing properties that came close but never quite delivered, my client realized he needed more than just access to listings, he needed someone who truly understood the market's hidden dynamics. He chose to work with me because of my extensive local market knowledge, proven negotiation track record, and commitment to complete transparency with zero surprises throughout the entire process."
       ],
       "image": {
         "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/upload-1.png"
