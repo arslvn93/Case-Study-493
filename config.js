@@ -46,7 +46,7 @@ const config = {
     "summary": {
       "title": "How a Downsizing Buyer Secured a Fully Renovated 2-Bed Condo with Double Parking for the Lowest Price on Record",
       "heroImage": {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1770058731739-L3RycmViL2xpc3RpbmdzLzQyLzc1LzA1Lzk4L3AvMDc2YzkwZDgtMmU5MC00YTBjLTlkZjEtMmM3ZTM4ZDQ3ZDRiLmpwZw.jpg"
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/upload-2.png"
       },
       "subTitle": "Summary",
       "paragraphs": [
